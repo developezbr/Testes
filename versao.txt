@@ -1,2 +1,2 @@
 versao=1.2.13
-url=http://d.file.com/app.zip
+url=d.file.com/app.zip
