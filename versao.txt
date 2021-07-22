@@ -1,2 +1,2 @@
 versao=1.2.13
-url=d.file.com/app.zip
+url=https://speed.hetzner.de/100MB.bin
